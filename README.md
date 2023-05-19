@@ -5,7 +5,7 @@ Connect with me on
   <a href="https://github.com/charoitel">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/github.svg" width="30px" height="30px" />
   </a>&nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/charoitel">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/whatsapp.svg" width="30px" height="30px" />
   </a>
 </p>
