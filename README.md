@@ -5,8 +5,8 @@ Connect with me on
   <a href="https://github.com/charoitel">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/github.svg" width="30px" height="30px" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/messages/compose?recipient_id=905679209552478208">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/twitter.svg" width="30px" height="30px" />
+  <a href="https://www.linkedin.com/in/charoitel">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/linkedin.svg" width="30px" height="30px" />
   </a>
 </p>
 
