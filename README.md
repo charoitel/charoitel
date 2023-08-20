@@ -12,6 +12,7 @@
     <li>Add GitHub Actions to release new layer when node-canvas release new version, with Amazon Inspector checks automated</li>
     <li>Bring canvas layer to other clouds, e.g. Alibaba Cloud (FC), Tencent Cloud (SCF), etc.</li>
     <li>Build the custom runtime and execution engine and make it universal for other things</li>
+    <li>Build another layer that may work with the canvas layer</li>
     <li>Build an open core model that could sustain the work and life</li>
     <li>and more 💬</li>
   </ul>
