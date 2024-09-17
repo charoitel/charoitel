@@ -6,6 +6,8 @@
   </ul>
 </p>
 
+<p><b>*** Trying to fix some bugs before launching new releases.... ***</b></p>
+
 <p>📝 I’m currently planning on ...
   <ul>
     <li>Add custom runtime and execution engine for Canvas Layer for AWS Lambda, to introduce a new way on AWS Lambda</li>
