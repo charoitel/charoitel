@@ -6,16 +6,10 @@
   </ul>
 </p>
 
-<p><b>*** Trying to fix some bugs before launching new releases.... ***</b></p>
-
 <p>📝 I’m currently planning on ...
   <ul>
-    <li>Add custom runtime and execution engine for Canvas Layer for AWS Lambda, to introduce a new way on AWS Lambda</li>
-    <li>Add GitHub Actions to release new layer when node-canvas release new version, with Amazon Inspector checks automated</li>
+    <li>Build custom layers for AWS Lambda</li>
     <li>Bring canvas layer to other clouds, e.g. Alibaba Cloud (FC), Tencent Cloud (SCF), etc.</li>
-    <li>Build the custom runtime and execution engine and make it universal for other things</li>
-    <li>Build another layer that may work with the canvas layer</li>
-    <li>Build an open core model that could sustain the work and life</li>
     <li>and more 💬</li>
   </ul>
 </p>
@@ -26,9 +20,6 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/charoitel">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/linkedin.svg" width="30px" height="30px" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/charoitel">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/telegram.svg" width="30px" height="30px" alt="Telegram" />
   </a>
 </p>
 
